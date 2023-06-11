@@ -1,2 +1,2 @@
 # SQL
-SQL Syntax &amp; Practice
+SQL Syntax & Practice
