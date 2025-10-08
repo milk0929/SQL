@@ -44,11 +44,10 @@ distinct
 id, 
 visit_date
 from t1
-where people >=100 and pre_people >= 100 and nex_p >= 100
+where people >=100 and (pre_people >= 100 or nex_p >= 100)
+--这样只能找出连续， 但是不知道连续几个，有可能也是两个
 
-
-
----
+-- Solution
 with s as(
     Select id, visit_date, people,
     id - row_number() over(order by visit_date) as day_diff

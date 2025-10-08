@@ -1,0 +1,16 @@
+## 
+
+Weakness, when there is time join involved... feel comfused 
+do more practice 
+
+
+And do more practice on pivot tables, generate any formatting of table, rows columns.... be clear 
+
+--- Remember the questions that i can;t answer during the League Interview... 
+-- need to be clear with data modelling,,,, how to generate the table that can be put in Data visualization tools... 
+--- and do more and more coplicated table join practice... 
+
+
+-- And some case ... 
+Like cohort
+like retention by subsequent month ...
